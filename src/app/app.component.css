@@ -1,0 +1,73 @@
+.header {
+  background-color: blueviolet;
+  margin-top: -8px;
+  margin-left: -16px;
+  margin-right: -16px;
+  padding: 20px;
+  display: flex;
+  
+}
+.product-link:hover{
+  color: blue;
+}
+.text:hover{
+  color:blueviolet;
+}
+.bar{
+  background-color: rgb(255, 255, 255);
+}
+.sample {
+  flex: 1 1 auto;
+}
+.text {
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 600;
+  text-shadow: 2px 1px black;
+
+}
+.box {
+  margin-left: 20px;
+}
+.menu-icon {
+  background-color:white;
+  color: black;
+  border: none;
+  font-size: 40px;
+  cursor: pointer;
+}
+.favorite-icon{
+  background-color:white;
+  color: black;
+  border: none;
+  font-size: 40px;
+  cursor: pointer;
+
+}
+.favorite-icon:hover{
+  color: blueviolet;
+}
+.share-icon{
+  background-color:white;
+  color: black;
+  border: none;
+  font-size: 40px;
+  cursor: pointer;
+
+}
+.product-link{
+  background-color:white;
+  border: none;
+  font-size: 20px;
+  margin-right: 16px;
+  cursor: pointer;
+  font-weight: 600;
+  font-family: sans-serif;
+  text-shadow: 2px 1px black;
+  
+}
+.share-icon:hover{
+  color:blueviolet;
+}
+
+
